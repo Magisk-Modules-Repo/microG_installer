@@ -1,3 +1,5 @@
+Important notice: you are currently viewing the Magisk Module Repo version of this module. It is being updated as long as possible from my side, however the Magisk Module Repo is DISCONTINUED and this repository may disappear! The [personal](https://github.com/nift4/microg_installer_revived) copy of this repository will however stay online.
+
 # microG Installer Revived
 
 This is a Magisk module that installs microG GmsCore, GsfProxy and DroidGuard Helper to `/system/priv-app`.
